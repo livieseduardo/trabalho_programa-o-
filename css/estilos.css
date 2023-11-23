@@ -40,7 +40,7 @@ h2 {
 
 .tecla {
   background-color: var(--branca);
-  border-radius: 30px;
+  border-radius: 50px;
   box-shadow: 3px 3px 0 var(--cinza);
   color: var(--blue);
   cursor: pointer;
