@@ -13,7 +13,7 @@ body {
   justify-content: center;
   flex-direction: column;
   font-family: 'Montserrat', sans-serif;
-  min-height: 500vh;
+  min-height: 10vh;
 }
 
 h1 {
