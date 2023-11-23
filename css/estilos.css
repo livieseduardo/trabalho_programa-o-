@@ -7,7 +7,7 @@
 }
 
 body {
-  align-items: center;
+  align-items: safe;
   background: url(https://img.freepik.com/free-vector/comics-background-with-halftone-effect_79603-1655.jpg?w=996&t=st=1700767917~exp=1700768517~hmac=1e351e8fd7c54d304a14f79e4d4c8746aa3ae4e7f2ee575021f4f2a6180d7381);
   display: flex;
   justify-content: center;
