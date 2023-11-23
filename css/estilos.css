@@ -19,6 +19,7 @@ body {
 }
 
 h1 {
+  background-color: #fff;
   color: var(--preto);
   margin-bottom: 20px;
   font-size: 3rem;
